@@ -43,4 +43,4 @@
 
 ![image](https://github.com/dellaanima/DLton_Zero_to_One/assets/82052850/85557558-33fd-4b76-8f21-89ceee30cad2)
 
-자세한 내용은 pptx에서도 확인이 가능합니다.
+For detailed information, please refer to the DLton_ZeroToOne_Presentation.pdf
