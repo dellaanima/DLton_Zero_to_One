@@ -10,7 +10,10 @@
 2. DKTC 테스트 데이터를 활용해 분류 성능을 평가합니다.
 
 ## 팀원
-박혜원(팀장/Modeling, Data Preprocessing), 황규빈(Data Aug) 김연수(Data Aug), 김범준(Data Preprocessing)
+- 박혜원 : Modeling, Data Preprocessing (팀장)
+- 황규빈 : Data Aug
+- 김연수 : Data Aug
+- 김범준 : Data Preprocessing
 
 ## 세부 일정
 
