@@ -9,6 +9,8 @@
 `협박`, `갈취`, `직장 내 괴롭힘`, `기타 괴롭힘` 4가지 대화 유형 Class를 분류하는 딥러닝 모델을 만듭니다.
 2. DKTC 테스트 데이터를 활용해 분류 성능을 평가합니다.
 
+## 팀원
+박혜원(팀장/Modeling, Data Preprocessing), 황규빈(Data Aug) 김연수(Data Aug), 김범준(Data Preprocessing)
 
 ## 세부 일정
 
@@ -22,7 +24,7 @@
 
 ## 성능
 
-- Best Model Acc : 0.92 (KLUE-Bert-Base) 
+- Best Model Acc : 0.92 (KLUE-Bert-Base/ Top 1 in DLTon ) 
 
 
 ## 사용한 Pretrained Models 
@@ -44,3 +46,7 @@
 ![image](https://github.com/dellaanima/DLton_Zero_to_One/assets/82052850/85557558-33fd-4b76-8f21-89ceee30cad2)
 
 For detailed information, please refer to the DLton_ZeroToOne_Presentation.pdf
+
+
+> StopWords 제거를 통한 성능 향상 (1 ~ 1.5% 향상 됨)
+  stopwords-ko.txt
