@@ -52,4 +52,4 @@ For detailed information, please refer to the DLton_ZeroToOne_Presentation.pdf
 
 
 > StopWords 제거를 통한 성능 향상 (1 ~ 1.5% 향상 됨)
-  stopwords-ko.txt
+  - Used Stopwords : stopwords-ko.txt
